@@ -108,6 +108,7 @@
   },
   "defaultProject": "blog",
   "cli": {
+    "analytics": "c02304a9-9d05-446a-98e0-87893f1170bc",
     "cache": {
       "enabled": true,
       "path": "./target/",
