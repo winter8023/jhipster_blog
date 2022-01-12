@@ -10,6 +10,15 @@
 ![1641967368(1)](https://user-images.githubusercontent.com/38161026/149072672-4495807e-c69d-4e2b-beb1-07643e31d4aa.jpg)  
 3.根据 step option 选择构建参数  
 
+三.编译部署前后端工程  
+1.前端  
+打开cmd，进入项目目录 /blog， 使用 npm install 加载依赖，使用 npm run 启动前端项目  
+![1641968015(1)](https://user-images.githubusercontent.com/38161026/149074179-071baf20-e538-43b8-8c83-18c712fad246.jpg)
+
+2.后端  
+用idea打开blog项目，run application  
+![1641968153(1)](https://user-images.githubusercontent.com/38161026/149074180-1c3c8086-f419-43c8-a672-a45f78ad12fa.jpg)
+
 
 # blog
 
