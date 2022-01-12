@@ -1,4 +1,15 @@
-# JHipster 生成单体应用项目(springboot+Angular)
+# JHipster 生成单体应用项目(springboot+Angular)  
+一.本机配置jhipster环境  
+1.安装git,配置环境变量  
+2.安装node,配置环境变量  
+3.打开cmd,使用 npm install -g generator-jhipster 命令,安装jhipster  
+
+二.使用jhipster工具构建springboot单体应用和Angular前端UI  
+1.新建项目文件夹 blog  
+2.cd /blog文件夹, 打开cmd, 使用 jhipster 命令进入jhipster环境
+![1641967368(1)](https://user-images.githubusercontent.com/38161026/149072672-4495807e-c69d-4e2b-beb1-07643e31d4aa.jpg)  
+3.根据 step option 选择构建参数  
+
 
 # blog
 
